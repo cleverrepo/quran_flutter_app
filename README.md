@@ -1,16 +1,6 @@
-# islamversehub
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-01-28 at 16 16 18_43284e65](https://github.com/cleverrepo/quran_flutter_app/assets/110777484/c9f54ad1-e51e-480e-981a-451cb1253424)
+![WhatsApp Image 2024-01-28 at 16 16 19_fe09a424](https://github.com/cleverrepo/quran_flutter_app/assets/110777484/5e69efbd-daed-4610-b0ef-368ab7be4485)
+![WhatsApp Image 2024-01-28 at 16 16 17_5983f97b](https://github.com/cleverrepo/quran_flutter_app/assets/110777484/9af90843-2f64-4d2d-9dab-9386c3564c97)
+![WhatsApp Image 2024-01-28 at 16 16 17_f3d93790](https://github.com/cleverrepo/quran_flutter_app/assets/110777484/368449d5-920e-43d4-876f-6c1bfd04c5c4)
+![WhatsApp Image 2024-01-28 at 16 16 17_fe214c79](https://github.com/cleverrepo/quran_flutter_app/assets/110777484/bbde0b11-1e6b-46ef-82bf-530b3f808a2c)
+![WhatsApp Image 2024-01-28 at 16 16 18_4d8eb754](https://github.com/cleverrepo/quran_flutter_app/assets/110777484/e1da24a3-3510-4b1d-9992-48d0242aca22)

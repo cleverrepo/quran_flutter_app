@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611152986851",
+    "project_id": "islamhub-f7b80",
+    "storage_bucket": "islamhub-f7b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611152986851:android:038affc4d836bfa4213bd6",
+        "android_client_info": {
+          "package_name": "com.example.islamversehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHeEr1OQ9zH3rWTSdGtfyYPNUEwEvfS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
